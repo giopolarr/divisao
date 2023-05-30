@@ -1,0 +1,15 @@
+C:\Users\2022102020058\source\repos\divisaao\divisaao\bin\Debug\net6.0\divisaao.exe
+C:\Users\2022102020058\source\repos\divisaao\divisaao\bin\Debug\net6.0\divisaao.deps.json
+C:\Users\2022102020058\source\repos\divisaao\divisaao\bin\Debug\net6.0\divisaao.runtimeconfig.json
+C:\Users\2022102020058\source\repos\divisaao\divisaao\bin\Debug\net6.0\divisaao.dll
+C:\Users\2022102020058\source\repos\divisaao\divisaao\bin\Debug\net6.0\divisaao.pdb
+C:\Users\2022102020058\source\repos\divisaao\divisaao\obj\Debug\net6.0\divisaao.csproj.AssemblyReference.cache
+C:\Users\2022102020058\source\repos\divisaao\divisaao\obj\Debug\net6.0\divisaao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020058\source\repos\divisaao\divisaao\obj\Debug\net6.0\divisaao.AssemblyInfoInputs.cache
+C:\Users\2022102020058\source\repos\divisaao\divisaao\obj\Debug\net6.0\divisaao.AssemblyInfo.cs
+C:\Users\2022102020058\source\repos\divisaao\divisaao\obj\Debug\net6.0\divisaao.csproj.CoreCompileInputs.cache
+C:\Users\2022102020058\source\repos\divisaao\divisaao\obj\Debug\net6.0\divisaao.dll
+C:\Users\2022102020058\source\repos\divisaao\divisaao\obj\Debug\net6.0\refint\divisaao.dll
+C:\Users\2022102020058\source\repos\divisaao\divisaao\obj\Debug\net6.0\divisaao.pdb
+C:\Users\2022102020058\source\repos\divisaao\divisaao\obj\Debug\net6.0\divisaao.genruntimeconfig.cache
+C:\Users\2022102020058\source\repos\divisaao\divisaao\obj\Debug\net6.0\ref\divisaao.dll
