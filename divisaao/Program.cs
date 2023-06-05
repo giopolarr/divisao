@@ -10,7 +10,15 @@ try
     int result = a / b;
     Console.WriteLine(result);
 }
-catch(Exception ex)
+catch(DivideByZeroException ex)
 {
     Console.WriteLine("Não é possível dividir qualquer número por zero" + ex.Message);
+}
+catch(InvalidCastException ex)
+{
+    Console.WriteLine($"Conversão de strig para letra não é permitida! {ex.Message}");
+}
+catch(Exception ex)
+{
+    Console.WriteLine("Ocorreu um erro" + ex.Message);
 }
