@@ -12,5 +12,5 @@ try
 }
 catch(Exception ex)
 {
-    Console.WriteLine("Não é possível dividir qualquer número por zero");
+    Console.WriteLine("Não é possível dividir qualquer número por zero" + ex.Message);
 }
