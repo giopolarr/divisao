@@ -22,3 +22,7 @@ catch(Exception ex)
 {
     Console.WriteLine("Ocorreu um erro" + ex.Message);
 }
+finally
+{
+    Console.WriteLine("Aqui passa de qualquer forma!");
+}
